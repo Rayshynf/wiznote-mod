@@ -9,5 +9,5 @@
 
 ## 自行打包
 ```sh
-docker build -t laoyutang/wiznote-mod:1.0.31 .
+docker build -t rayshynf/witnote:unlock .
 ```
